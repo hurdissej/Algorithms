@@ -7,7 +7,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            // Run tests on algo here
+            KNearestNeighbourClassification.RunAllTests();
         }
     }
 }
