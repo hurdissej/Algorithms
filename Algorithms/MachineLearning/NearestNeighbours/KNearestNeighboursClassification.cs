@@ -12,6 +12,7 @@ public static class KNearestNeighbourClassification
             var distance = Math.Sqrt((Math.Pow(Redness - fruit.Redness, 2) + (Math.Pow(Size - fruit.Size, 2))));
             distances.Add(fruit, distance);
         } 
+        // Currently O(2N because of this order by - need to make the insert better)
         var orderedDistances = distances.OrderBy(x => x.Value);
         var nearestNeighbours = orderedDistances.Take(5);
         var oranges = nearestNeighbours.Where(x => x.Key.IsOrange);
