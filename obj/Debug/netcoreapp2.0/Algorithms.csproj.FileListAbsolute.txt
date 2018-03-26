@@ -1,0 +1,10 @@
+/Users/hurdissej/dev/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.deps.json
+/Users/hurdissej/dev/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.json
+/Users/hurdissej/dev/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.dev.json
+/Users/hurdissej/dev/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.dll
+/Users/hurdissej/dev/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfoInputs.cache
+/Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
+/Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
+/Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
