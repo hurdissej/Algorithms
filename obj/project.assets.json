@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elliot.hurdiss\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/hurdissej/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "/Users/hurdissej/dev/Algorithms/Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Code\\Algorithms\\Algorithms.csproj",
-      "packagesPath": "C:\\Users\\elliot.hurdiss\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Algorithms\\obj\\",
+      "projectPath": "/Users/hurdissej/dev/Algorithms/Algorithms.csproj",
+      "packagesPath": "/Users/hurdissej/.nuget/packages/",
+      "outputPath": "/Users/hurdissej/dev/Algorithms/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\elliot.hurdiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/hurdissej/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

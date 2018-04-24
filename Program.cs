@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
@@ -10,7 +11,10 @@ namespace Algorithms
     {
         static async Task Main(string[] args)
         {
+            var s = new Stopwatch();
+            s.Start();
             await PrintSomeStuff();
+            System.Console.WriteLine(s.ElapsedMilliseconds);
             System.Console.WriteLine("done");
         }
 
@@ -18,11 +22,11 @@ namespace Algorithms
         {
             var i = 3;
 
-            Task.Delay(TimeSpan.FromSeconds(5));
+            await Task.Delay(TimeSpan.FromSeconds(5));
 
             i *= 3;
 
-            Task.Delay(TimeSpan.FromSeconds(5));
+            await Task.Delay(TimeSpan.FromSeconds(5));
 
             System.Console.WriteLine(i);
         }
