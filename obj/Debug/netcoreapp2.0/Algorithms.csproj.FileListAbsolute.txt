@@ -8,3 +8,13 @@
 /Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
 /Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
 /Users/hurdissej/dev/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+C:\Code\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+C:\Code\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+C:\Code\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+C:\Code\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+C:\Code\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Code\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Code\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+C:\Code\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+C:\Code\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+C:\Code\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
